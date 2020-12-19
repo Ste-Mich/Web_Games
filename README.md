@@ -1,2 +1,2 @@
-"# Web_project" 
-Few games i created. Made with bootstrap and js. 
+Few games I created. 
+Made with bootstrap and js. 
