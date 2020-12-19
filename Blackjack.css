@@ -1,0 +1,20 @@
+table {
+  border: 1px transparent black;
+  margin: auto;
+  font-size: 4em;
+  overflow-x: scroll;
+}
+
+td {
+  border: 1px transparent black;
+  text-align: center;
+  overflow-x: scroll;
+}
+
+img {
+  width: 1.8em;
+}
+
+.btn {
+  margin-bottom: 15px;
+}
