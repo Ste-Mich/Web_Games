@@ -1,7 +1,5 @@
-Few games I created. 
-Made with bootstrap and js. 
-
-Features Tic Tac Toe and Blackjack.
+# Web Games
+currently features Tic Tac Toe and Blackjack.
 
 ## How to run:
 1. Download the code and unzip it.
