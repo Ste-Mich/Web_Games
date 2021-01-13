@@ -7,8 +7,8 @@
  * Features:                                                                                *
  * - Game of Blackjack, dealer hits until reaching 17                                       *
  * - Card, Deck, Hand classes                                                               *
- * - A random deck shuffled, everytime                                                      *
- * - double down, split, switch hands, surrender, hit/stay                                  *
+ * - A random deck shuffled everytime                                                       *
+ * - surrender, hit/stay, restart                                                           *
  *                                                                                          *
  ********************************************************************************************/
 
@@ -134,17 +134,6 @@ class Hand{
             this.row.innerHTML += (template1 + initials + template2);
         }
     }
-    
-    /*updateDealerDisplay(){
-        this.row.innerHTML = ``;
-        let initials;
-        for (let i=0;i<this.cards.length; i++){
-            initials = this.cards[i].initials
-            if (i===1)
-                initials = "blue_back";
-            this.row.innerHTML += (template1 + initials + template2);
-        }
-    }*/
 }
 
 //
