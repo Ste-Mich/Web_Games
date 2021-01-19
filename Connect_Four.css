@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 2%;
+}
+
+table {
+  border: 6px solid black;
+  margin: auto;
+}
+
+tr {
+  display: block;
+  float: left;
+}
+
+td {
+  border: 2px solid gray;
+  width: 95px;
+  height: 95px;
+  display: block;
+}
