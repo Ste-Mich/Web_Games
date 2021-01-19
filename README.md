@@ -14,6 +14,12 @@ currently features Tic Tac Toe and Blackjack.
   - Dealer hits until he reaches 17.
   - You can play the game using your keyboard input - "r", "h", "s".
   - Value of your hand is also displayed.
+- Connect Four
+  - A Connect Four game made for 2 players.
+  - You can win by getting four in a row, collumn or a diagonal.
+  - If all fields are filled, It's a tie.
+  - The state of the game is displayed in the text at the top.
+  - The input is handled with event listeners in the table and the text at the top.
 - Tic Tac Toe
   - Two player game.
   - Score counter for each player.
